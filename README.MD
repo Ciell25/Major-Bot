@@ -1,24 +1,13 @@
-# Major Bot
+> [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/Van_Qish)
 
-A Python bot for interacting with the Major Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
-
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
-
-### This bot helpfull? Contributed by buying me a coffee: 
-```
-0x705C71fc031B378586695c8f888231e9d24381b4 - EVM
-TDTtTc4hSnK9ii1VDudZij8FVK2ZtwChja - TRON
-UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
-```
 
 ## Register
 
 To use this bot, you need to register it with the Major Telegram Bot. 
 
-1. Open the [Major Telegram Bot](https://t.me/major/start?startapp=1396812260)
+1. Open the [Major Telegram Bot](https://t.me/major/start?startapp=1053810898)
 2. Click on the "Start App" or "Open App" button
 3. Install This Major Telegram Bot
-4. Have Fun 🦈
 
 ## Update 2024/10/5
 
@@ -50,13 +39,13 @@ To use this bot, you need to register it with the Major Telegram Bot.
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/jawikas/major-bot.git
+    git clone https://github.com/Ciell25/Major-Bot.git
     ```
 
 2. **Navigate to the project directory**
 
     ```bash
-    cd major-bot
+    cd Major-Bot
     ```
 
 3. **Create a virtual environment (optional but recommended)**
